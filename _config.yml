@@ -1,6 +1,6 @@
-name: "LLNL Jekyll Template"
-author: "Ian Lee <lee1001@llnl.gov>"
-description: "LLNL Jekyll Template"
+name: "MACSio"
+author: "Elsa Gonsiorowski <gonsiorowski1@llnl.gov>"
+description: "Muli-purpose, Application-Centric, Scalable I/O Proxy Application"
 
 url: "http://localhost:4000"
 
