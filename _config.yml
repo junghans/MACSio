@@ -2,8 +2,7 @@ name: "MACSio"
 author: "Elsa Gonsiorowski <gonsiorowski1@llnl.gov>"
 description: "Muli-purpose, Application-Centric, Scalable I/O Proxy Application"
 
-baseurl: MACSio
-
-url: "http://localhost:4000"
+githubrepo: MACSio
+baseurl: /MACSio
 
 permalink: pretty
